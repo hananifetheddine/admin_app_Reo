@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605178977326",
+    "project_id": "agence-immobiliere-app-c40f9",
+    "storage_bucket": "agence-immobiliere-app-c40f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605178977326:android:0eb4fcecc54347f23513bf",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvDM2NAHdbiCXfaG3pPpCS8rMbQVTp74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605178977326:android:6b552e7a3fc259c93513bf",
+        "android_client_info": {
+          "package_name": "com.example.reo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvDM2NAHdbiCXfaG3pPpCS8rMbQVTp74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
